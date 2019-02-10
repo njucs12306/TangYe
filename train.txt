@@ -1,2 +1,5 @@
-D55£¬100|NanJing|DanYang|ZhenJiang|ChangZhou|WuXi|SuZhou|ShangHai|
-D98£¬100|NanJing|HeFei|ChuZhou|
+D55,100|NanJing|DanYang|ZhenJiang|ChangZhou|WuXi|SuZhou|ShangHai|
+D98,100|NanJing|HeFei|ChuZhou|
+D90,87|Shanghai|JiNan|
+D34,12|ShanXi|XiZang|
+D44,112|Jinan|NanJing|
